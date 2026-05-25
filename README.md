@@ -21,5 +21,5 @@ The Generative Text Model also helps students understand important AI concepts s
 This project can be further enhanced by adding advanced features such as multilingual text generation, voice-based input, graphical user interface (GUI), chatbot integration, sentiment analysis, story generation, essay generation, and web application deployment. The system can also be integrated with speech recognition systems to create intelligent conversational AI assistants.
 The Generative Text Model is an innovative and beginner-friendly AI project suitable for internships, academic submissions, GitHub portfolios, and LinkedIn showcases. It demonstrates practical implementation of modern AI and NLP technologies in text generation tasks. The project highlights the growing importance of Generative AI in modern applications and showcases how deep learning models can generate human-like language automatically. Overall, this project serves as an excellent example of how Artificial Intelligence is transforming digital communication and automated content creation systems.
 
-##OUTPUT:
+##OUTPUT:<img width="1549" height="1021" alt="Image" src="https://github.com/user-attachments/assets/4aa47b4e-920e-4f14-a5ec-43433af8aef0" />
 
